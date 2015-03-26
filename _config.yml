@@ -1,24 +1,20 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
+kramdown: 
+  input: GFM
 pygments:         true
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Michael Krautzberger
+tagline:          'Informationen für Studium und Praxis'
+description:      'Prof. Dr. Michael Krautzberger'
+url:              http://www.krautzberger.info
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael Krautzberger'
+  url:            https://www.krautzberger.info
 
 paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
