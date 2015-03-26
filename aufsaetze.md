@@ -24,7 +24,6 @@ excerpt: !ruby/object:Hpricot::Doc
 *   [Das neue „Gesetz über Maßnahmen im Bauplanungsrecht zur Erleichterung der Unterbringung von Flüchtlingen“ – „BauGB-Novelle 2014 II“.  UPR 2015 (Heft 1), S. 20](/assets/2012/03/UPR-2015-Heft-1-S.-201.pdf)
 *   [Neue städtebaurechtliche Regelungen für den Regelungen für den Flüchtlingswohnungsbau, GuG 2015/Heft 1](/assets/2012/03/GuG.2015.pdf)
 
-### 
 
 ### 2014
 

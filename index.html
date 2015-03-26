@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Homepage
 ---
 
 <div class="posts">
@@ -11,7 +12,7 @@ layout: default
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
 
     {{ post.content }}
   </div>
