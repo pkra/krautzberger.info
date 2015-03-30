@@ -35,7 +35,7 @@ excerpt: !ruby/object:Hpricot::Doc
 *   [Schrottimmobilien. ZfBR 2013, 529, Krautzberger/Stüer](/assets/2012/03/Schrottimmobilien.-ZfBR-2013-529.pdf)
 *   [Bayerisches Denkmalschutzgesetz - 40 Jahre danach](/assets/2012/03/Bayerisches-Denkmalschutzgesetz-40-Jahre-danach.pdf), Michael Krautzberger
 *   [BauGB Novelle 2013](/assets/2012/03/dvbl1313.pdf), Krautzberger/Stüer
-*   Wie steht es mit der Bürgerbeteiligung im Planungsrecht?  Michael Krautzberger [fub_2/2013](/assets/2012/03/0_fub_2_13_Krautzberger1.pdf)
+*   Wie steht es mit der Bürgerbeteiligung im Planungsrecht?  Michael Krautzberger [fub_2/2013](/assets/2012/03/0_fub_2_13_Krautzberger.pdf)
 
 ### 2012
 
@@ -44,12 +44,12 @@ excerpt: !ruby/object:Hpricot::Doc
 ### 2011
 
 *   [Städtebauförderung - eine bleibende gesamtstaatliche Aufgabe](/assets/2012/03/Städtebauförderung-eine-bleibende-gesamtstaatliche-Aufgabe.pdf), Prof. Dr. Michael Krautzberger
-*   [BauGB Novelle 2011](/assets/2012/03/BauGB-Novelle-20111.pdf), Prof. Dr. Michael Krautzberger
+*   [BauGB Novelle 2011](/assets/2012/03/BauGB-Novelle-2011.pdf), Prof. Dr. Michael Krautzberger
 
 ### 2010
 
 *   ["Metropolen" und "Metropolenregionen" Was bedeutet das für die Raumordnung?](/assets/2012/03/Metroplen_und_Metropolregionen.pdf), Prof. Dr. Michael Krautzberger und Dr. Welf Selke, in UPR 2010, S. 269 ff.
-*   [Der Durchführungsvertrag beim Vorhaben- und Erschließungsplan nach § 12 BauGB](http://www.krautzberger.info/file/page/aufsaetze_vortraege/durchfuehrungsvertrag_30062006.pdf), Recht des öffentlich-rechtlichen Vertrages, Prof. Dr. Michael Krautzberger, in NotBZ 2010, S. 241 ff.
+*   [Der Durchführungsvertrag beim Vorhaben- und Erschließungsplan nach § 12 BauGB](/assets/2012/03/durchfuehrungsvertrag_30062006.pdf), Recht des öffentlich-rechtlichen Vertrages, Prof. Dr. Michael Krautzberger, in NotBZ 2010, S. 241 ff.
 *   [50 Jahre Städtebaurecht des Bundes](/assets/2012/03/50JahreStaedtebaurecht.pdf), Prof. Dr. Michael Krautzberger, in NVwZ 2010, Seite 729 ff.
 *   [Bodenschutz und Baurecht auf Zeit im Außenbereich?](/assets/2012/03/Bodenschutz+BaurechtaufZeitimAußenbereich_MK.pdf), Prof. Dr. Michael Krautzberger, in UPR 3/2010, S. 81 ff.
 *   [Von der Angebotsplanung zur Projektplanung?](/assets/2012/03/152-02_Krautzberger.pdf), Tendenzen der jüngeren Städtebaugesetzgebung; Prof. Dr. Michael Krautzberger, in RaumPlanung 152 (2010), S. 11 ff.
@@ -77,7 +77,7 @@ excerpt: !ruby/object:Hpricot::Doc
 
 ### 2005
 
-Aus [Handwörterbuch der Raumordnung 2005](http://www.arl-net.de/veroe/HWB_2005.html):
+Aus [Handwörterbuch der Raumordnung 2005](http://www.arl-net.de/content/handwoerterbuch-der-raumordnung):
 
 *   [Denkmalschutz/Denkmalpflege](/assets/2012/03/Denkmalschutz.pdf)
 *   [Baugesetzbuch. Entstehungsgeschichte, Aufbau, Überblick](/assets/2012/03/Baugesetzbuch.pdf)
