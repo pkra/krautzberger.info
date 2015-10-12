@@ -31,6 +31,6 @@ excerpt: !ruby/object:Hpricot::Doc
 |Seit 1973    |Bundesministerium für Raumordnung, Bauwesen und Städtebau (Bonn), seit 1998 Bundesministerium für Verkehr, Bau- und Wohnungswesen (Berlin); u.a. Persönlicher Referent des Staatssekretärs (1973), Leiter des Personalreferats (1973 - 1978) und der Referate für Wohnungsmodernisierung (1978-1979), Grundsatzfragen des Planungs- und Bodenrechts (1979 - 1986); 1986 bis 1991 Leiter der Unterabteilungen Städtebau (bis 1990) und Recht des Städtebaus (bis 1991), Leiter der Außenstelle Berlin (1990/1991);1991 Leiter der Abteilung Raumordnung und Städtebau;Ministerialdirektor;1998 Leiter der Abteilung Bauwesen und Städtebau|
 |November 2003|Beendigung der Tätigkeit im Bundesministerium|
 |Seit 1993    |Honorarprofessor an der Fakultät für Raumplanung der Universität Dortmund|
-|Seit 1998    |Honorarprofessor an der Juristischen Fakultät der Humboldt-Universität zu Berlin
-|             |Präsident der Deutschen Akademie für Städtebau und Landesplanung bis Januar 2013; Ordentliches Mitglied der Akademie für Raumforschung und Landesplanung;Deutsche Stiftung Denkmalschutz (stellvertretender Vorsitzender); Aufsichtsratsvorsitzender der Brandenburgischen Schlösser GmbH; Mitglied im Board von EUROPA NOSTRA (seit 2005)|
+|1998-2013    |Honorarprofessor an der Juristischen Fakultät der Humboldt-Universität zu Berlin
+|Seit 1998    |Präsident der Deutschen Akademie für Städtebau und Landesplanung bis Januar 2013; Ordentliches Mitglied der Akademie für Raumforschung und Landesplanung;Deutsche Stiftung Denkmalschutz (Stiftungsrat); Aufsichtsratsvorsitzender der Brandenburgischen Schlösser GmbH; Mitglied im Board von EUROPA NOSTRA (seit 2005)|
 |2013          |Verleihung des Bundesverdienstkreuzes|
