@@ -21,6 +21,7 @@ excerpt: !ruby/object:Hpricot::Doc
 ---
 ### 2015
 
+* ["Flüchtlingsunterbringung: Die BauGB-Novellen 2014 und 2015" (DVBl. 24/2015)](/assets/2015/dvbl2415.pdf)
 *   [Das neue „Gesetz über Maßnahmen im Bauplanungsrecht zur Erleichterung der Unterbringung von Flüchtlingen“ – „BauGB-Novelle 2014 II“.  UPR 2015 (Heft 1), S. 20](/assets/2012/03/UPR-2015-Heft-1-S.-201.pdf)
 *   [Neue städtebaurechtliche Regelungen für den Regelungen für den Flüchtlingswohnungsbau, GuG 2015/Heft 1](/assets/2012/03/GuG.2015.pdf)
 
@@ -39,7 +40,7 @@ excerpt: !ruby/object:Hpricot::Doc
 
 ### 2012
 
-*   [Klimaschutz als Aufgabe der Stadterneuerung und des Stadtumbaus](/assets/2012/03/201202.pdf), Prof. Dr. Michael Krautzberger, 
+*   [Klimaschutz als Aufgabe der Stadterneuerung und des Stadtumbaus](/assets/2012/03/201202.pdf), Prof. Dr. Michael Krautzberger,
 
 ### 2011
 
