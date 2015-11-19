@@ -20,6 +20,11 @@ excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
 
+### 2015
+
+* [Flüchtlingsnovellen 2014 und 2015](/assets/2015/Flüchtlingenovellen-2014-2015-Stand2015-11-04.pdf)
+
+
 ### 2014
 
 * [HU.Baukultur.17.12.2014](/assets/2013/04/HU.Baukultur.17.12.2014.pdf)
