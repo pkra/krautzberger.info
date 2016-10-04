@@ -2,7 +2,6 @@
 markdown:         kramdown
 kramdown: 
   input: GFM
-pygments:         true
 
 # Permalinks
 permalink:        pretty
@@ -18,3 +17,6 @@ author:
   url:            https://www.krautzberger.info
 
 paginate:         5
+
+gems:
+  - jekyll-redirect-from
