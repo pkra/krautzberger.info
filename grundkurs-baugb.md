@@ -2,22 +2,10 @@
 layout: page
 title: Grundkurs BauGB
 date: 2012-03-08 00:31:22.000000000 +01:00
-categories: []
-tags: []
 status: publish
 type: page
 published: true
-meta:
-  _edit_last: '3'
-  _wp_page_template: default
-author:
-  login: krautzberger
-  email: p.krautzberger@gmail.com
-  display_name: Peter Krautzberger
-  first_name: Peter
-  last_name: Krautzberger
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+author: 'Michael Krautzberger'
 ---
 *   [Städtebauliche Verträge](/assets/grundkurs/Städtebauliche-Verträge.pdf) Verfasser: Michael Krautzberger [Neu]
 *   [Bauleitplanung](/assets/grundkurs/Grundkurs-BLPL-Allg-Stand-3-12.pdf) Verfasser: Stephan Mitschang [Neu]

@@ -2,23 +2,12 @@
 layout: page
 title: Aufsätze
 date: 2012-03-08 03:42:42.000000000 +01:00
-categories: []
-tags: []
 status: publish
 type: page
 published: true
-meta:
-  _edit_last: '18'
-  _wp_page_template: default
-author:
-  login: krautzberger
-  email: p.krautzberger@gmail.com
-  display_name: Peter Krautzberger
-  first_name: Peter
-  last_name: Krautzberger
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+author: 'Michael Krautzberger'
 ---
+
 ### 2015
 
 * ["Flüchtlingsunterbringung: Die BauGB-Novellen 2014 und 2015" (DVBl. 24/2015)](/assets/2015/dvbl2415.pdf)
