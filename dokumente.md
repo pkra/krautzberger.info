@@ -2,45 +2,25 @@
 layout: page
 title: Dokumente
 date: 2012-03-08 03:44:10.000000000 +01:00
-categories: []
-tags: []
 status: publish
 type: page
 published: true
-meta:
-  _edit_last: '18'
-  the_sidebar: ''
-  sidebar_layout: ''
-  content_sidebar: ''
-  colorscheme: ''
-  full_width_widget: ''
-  hide_bottom_sidebars: ''
-  featureboxes: ''
-  carousel_items: ''
-  carousel_mode: ''
-  carousel_ngen_gallery: ''
-  featuretitle: ''
-  featuretext: ''
-  featuremedia: ''
-  _wp_page_template: default
-author:
-  login: krautzberger
-  email: p.krautzberger@gmail.com
-  display_name: Peter Krautzberger
-  first_name: Peter
-  last_name: Krautzberger
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+author: 'Michael Krautzberger'
 ---
+
 # Allgemeine Informationen zum Baurecht.
 
 Unter anderem: BauGB, BauNVO, Gesetzentwürfe und EU-Richtlinien
 
 Weitere Dokumente auch  [bei Prof. Dr. Stüer](http://www.stueer.de/)
 
+## BauGB 2017
+
+[Muster-Einführungserlass](/assets/2017/Mustererlass_BauGB_2017_endg.pdf) zum Gesetz zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt und zu weiteren Änderungen des Baugesetzbuchs (_BauGBÄndG 2017_ – Mustererlass)
+
 ## BauGB Novelle 2013 - BGBl. I 2013 S. 1548
 
-[Mustereinführungserlass ](/assets/2012/03/BauGBÄndG-2013-Mustererlass-endg.pdf)zum BauGB Novelle 2013 Stand 20.9.2013 (Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts)
+[Mustereinführungserlass](/assets/2012/03/BauGBÄndG-2013-Mustererlass-endg.pdf) zum BauGB Novelle 2013 Stand 20.9.2013 (Gesetz zur Stärkung der Innenentwicklung in den Städten und Gemeinden und weiteren Fortentwicklung des Städtebaurechts)
 
 [BGBl I 2013 S 1548](/assets/2012/03/BGBl-I-2013-S-1548.pdf)
 
