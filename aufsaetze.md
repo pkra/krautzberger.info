@@ -8,6 +8,10 @@ published: true
 author: 'Michael Krautzberger'
 ---
 
+### 2019
+
+*   [100 Jahre Weimar: Baukultur und Denkmalpflege - Rechtlicher Rahmen - Zukunftsaufgaben, DVBl. 2019, Heft 18](/assets/2019/dvbl1819.pdf)
+
 ### 2015
 
 * ["Flüchtlingsunterbringung: Die BauGB-Novellen 2014 und 2015" (DVBl. 24/2015)](/assets/2015/dvbl2415.pdf)
