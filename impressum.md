@@ -9,7 +9,7 @@ author: 'Michael Krautzberger'
 ---
 Prof. Dr. Michael Krautzberger
 
-Kolfhausstr. 7
+Otto-Kühne-Platz 3
 
 53173 Bonn
 
