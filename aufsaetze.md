@@ -8,6 +8,10 @@ published: true
 author: 'Michael Krautzberger'
 ---
 
+### 2021
+
+* [Baulandmobilisierung: Gesetzentwurf der Bundesregierung](/assets/2021/Baulandmobilisierung.pdf)
+
 ### 2019
 
 *   [100 Jahre Weimar: Baukultur und Denkmalpflege - Rechtlicher Rahmen - Zukunftsaufgaben, DVBl. 2019, Heft 18](/assets/2019/dvbl1819.pdf)
