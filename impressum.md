@@ -5,12 +5,12 @@ date: 2012-03-08 03:45:09.000000000 +01:00
 status: publish
 type: page
 published: true
-author: 'Michael Krautzberger'
+author: 'Familie Krautzberger'
 ---
-Prof. Dr. Michael Krautzberger
+Familie Krautzberger
 
-Otto-Kühne-Platz 3
+Kolfhausstr 7
 
 53173 Bonn
 
-[webmaster@krautzberger.info](mailto:webmaster@krautzberger.info)
+[p.krautzberger@gmail.com](mailto:p.krautzberger@gmail.com)
